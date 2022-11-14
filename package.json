@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-contrast",
+  "displayName": "One Dark contrast",
+  "description": "One Dark Pro Flat with darker background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Pro Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Pro Contrast-color-theme.json"
+      }
+    ]
+  }
+}
